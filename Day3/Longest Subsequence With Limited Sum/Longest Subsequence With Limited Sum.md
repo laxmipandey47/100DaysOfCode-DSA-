@@ -1,4 +1,4 @@
-# Longest Subsequence With Limited Sum
+# 2389. Longest Subsequence With Limited Sum
 
 You are given an integer array nums of length n, and an integer array queries of length m.
 
